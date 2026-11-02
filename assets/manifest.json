@@ -1,0 +1,39 @@
+{
+  "images": {
+    "background": "./assets/grassland-background.png",
+    "scene.boss": "./assets/pyre-background.png",
+    "hero": "./assets/hero-idle.png",
+    "hero.crawl": "./assets/hero-crawl.png",
+    "enemy.melee": "./assets/bone-enemy.png",
+    "enemy.ranged": "./assets/archer-enemy.png",
+    "enemy.binder": "./assets/binder-enemy.png",
+    "enemy.stone": "./assets/stone-enemy.png",
+    "enemy.thunder": "./assets/thunder-enemy.png",
+    "enemy.boss": "./assets/pyre-enemy.png"
+  },
+  "audio": {
+    "music-journey": "./assets/music-journey.mp3",
+    "music-boss": "./assets/music-boss.mp3",
+    "amb-wind": "./assets/amb-wind.mp3",
+    "amb-embers": "./assets/amb-embers.mp3",
+    "amb-camp": "./assets/amb-camp.mp3",
+    "key": "./assets/key.mp3",
+    "word": "./assets/word.mp3",
+    "fist": "./assets/fist.mp3",
+    "head-launch": "./assets/head-launch.mp3",
+    "head-land": "./assets/head-land.mp3",
+    "rebirth": "./assets/rebirth.mp3",
+    "lash": "./assets/lash.mp3",
+    "nova": "./assets/nova.mp3",
+    "oath": "./assets/oath.mp3",
+    "enemy-hit": "./assets/enemy-hit.mp3",
+    "arrow": "./assets/arrow.mp3",
+    "binding": "./assets/binding.mp3",
+    "earth": "./assets/earth.mp3",
+    "thunder": "./assets/thunder.mp3",
+    "boss-sweep": "./assets/boss-sweep.mp3",
+    "break": "./assets/break.mp3",
+    "fallen": "./assets/fallen.mp3",
+    "upgrade": "./assets/upgrade.mp3"
+  }
+}

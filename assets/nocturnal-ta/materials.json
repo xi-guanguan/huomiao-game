@@ -1,0 +1,405 @@
+{
+  "textures": [
+    {
+      "role": "_DissolveDirection",
+      "identity": {
+        "bundle": "entities_assets_all.bundle",
+        "file": "CAB-1d45f7d7f317c5b6dda7a85fa486b91d",
+        "pathID": "-639958015354709148"
+      },
+      "source_name": "Dissolve Down Direction",
+      "image": "dissolve-direction.png",
+      "width": 16,
+      "height": 512,
+      "texture_format": 10,
+      "color_space": 1,
+      "texture_settings": {
+        "m_FilterMode": 1,
+        "m_Aniso": 1,
+        "m_MipBias": 0.0,
+        "m_WrapU": 0,
+        "m_WrapV": 0,
+        "m_WrapW": 0
+      },
+      "png_sha256": "323f46d74aab532686830f973f2d22aad7a414bf275393bba2cf35ef1db1d897",
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "role": "_DissolveGradient",
+      "identity": {
+        "bundle": "entities_assets_all.bundle",
+        "file": "CAB-1d45f7d7f317c5b6dda7a85fa486b91d",
+        "pathID": "111719924212576171"
+      },
+      "source_name": "Base Dissolve Gradient",
+      "image": "dissolve-gradient.png",
+      "width": 1024,
+      "height": 8,
+      "texture_format": 12,
+      "color_space": 1,
+      "texture_settings": {
+        "m_FilterMode": 1,
+        "m_Aniso": 1,
+        "m_MipBias": 0.0,
+        "m_WrapU": 1,
+        "m_WrapV": 1,
+        "m_WrapW": 1
+      },
+      "png_sha256": "f669402fdeb888171c1dfd8a7ac21b008a68a4eaa9af63c2f00b373217c2afc4",
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "role": "_DissolveMasking",
+      "identity": {
+        "bundle": "entities_assets_all.bundle",
+        "file": "CAB-1d45f7d7f317c5b6dda7a85fa486b91d",
+        "pathID": "-3463016299952570177"
+      },
+      "source_name": "Dissolve Mask",
+      "image": "dissolve-mask.png",
+      "width": 512,
+      "height": 512,
+      "texture_format": 10,
+      "color_space": 1,
+      "texture_settings": {
+        "m_FilterMode": 1,
+        "m_Aniso": 1,
+        "m_MipBias": 0.0,
+        "m_WrapU": 0,
+        "m_WrapV": 0,
+        "m_WrapW": 0
+      },
+      "png_sha256": "309d2929cfe8dc413d0c6a61156ff03bd3b1b4f9c37ad2bd26b8cb63dca77fdc",
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "role": "fire",
+      "identity": {
+        "bundle": "entities_assets_all.bundle",
+        "file": "CAB-1d45f7d7f317c5b6dda7a85fa486b91d",
+        "pathID": "4846028552740714325"
+      },
+      "source_name": "FireShape",
+      "image": "fire-shape.png",
+      "width": 512,
+      "height": 512,
+      "texture_format": 12,
+      "color_space": 1,
+      "texture_settings": {
+        "m_FilterMode": 1,
+        "m_Aniso": 1,
+        "m_MipBias": 0.0,
+        "m_WrapU": 0,
+        "m_WrapV": 0,
+        "m_WrapW": 0
+      },
+      "png_sha256": "7ce583419e1e267cd1bcc737c467a07799f89f27fa5cb3f064625f24be12acf4"
+    }
+  ],
+  "dissolveDiffusion": 2.0,
+  "statuses": {
+    "ready": {
+      "source": {
+        "bundle": "entities_assets_all.bundle",
+        "file": "CAB-1d45f7d7f317c5b6dda7a85fa486b91d",
+        "pathID": "5950120567424813223"
+      },
+      "assetName": "Ready Status",
+      "color": [
+        0.6226415038108826,
+        0.6226415038108826,
+        0.6226415038108826,
+        0.9176470637321472
+      ],
+      "priority": 0,
+      "duration": 1.2000000476837158,
+      "minAlpha": 0.0,
+      "minDissolve": 0.0,
+      "maxDissolve": 0.0,
+      "curve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.002358555793762207,
+            "inSlope": 0.0,
+            "outSlope": 110.96522521972656,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 0.00901542603969574,
+            "value": 1.0027573108673096,
+            "inSlope": 110.96522521972656,
+            "outSlope": -0.0973145067691803,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 0.04243315011262894,
+            "value": 0.9995052814483643,
+            "inSlope": -0.0973145067691803,
+            "outSlope": -7.18446159362793,
+            "weightedMode": 0,
+            "inWeight": 0.3256872594356537,
+            "outWeight": 0.09803090989589691
+          },
+          {
+            "time": 0.13579317927360535,
+            "value": 0.3287636935710907,
+            "inSlope": -7.18446159362793,
+            "outSlope": -0.5729482769966125,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.08541517704725266
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "hurt": {
+      "source": {
+        "bundle": "entities_assets_all.bundle",
+        "file": "CAB-1d45f7d7f317c5b6dda7a85fa486b91d",
+        "pathID": "5178422422312475966"
+      },
+      "assetName": "Base Hurt Status",
+      "color": [
+        1.2700191736221313,
+        0.0,
+        0.06655122339725494,
+        0.9803921580314636
+      ],
+      "priority": 2,
+      "duration": 0.25,
+      "minAlpha": 0.0,
+      "minDissolve": 0.0,
+      "maxDissolve": 0.0,
+      "curve": {
+        "m_Curve": [
+          {
+            "time": -0.00011232495307922363,
+            "value": 1.2993659973144531,
+            "inSlope": "inf",
+            "outSlope": "inf",
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 0.2696947753429413,
+            "value": 0.8864790797233582,
+            "inSlope": -1.8295708894729614,
+            "outSlope": -1.8295708894729614,
+            "weightedMode": 0,
+            "inWeight": 0.3256872594356537,
+            "outWeight": 0.04505695775151253
+          },
+          {
+            "time": 1.0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "burning": {
+      "source": {
+        "bundle": "entities_assets_all.bundle",
+        "file": "CAB-1d45f7d7f317c5b6dda7a85fa486b91d",
+        "pathID": "5767203355417793208"
+      },
+      "assetName": "Characters Burning Status",
+      "color": [
+        0.0,
+        0.0,
+        0.0,
+        0.4901960790157318
+      ],
+      "priority": 1,
+      "duration": 0.20000000298023224,
+      "minAlpha": 0.0,
+      "minDissolve": 0.0,
+      "maxDissolve": 0.30000001192092896,
+      "curve": {
+        "m_Curve": [
+          {
+            "time": -0.000843048095703125,
+            "value": 0.50738525390625,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 0.4512324929237366,
+            "value": 1.0116585493087769,
+            "inSlope": -0.010934373363852501,
+            "outSlope": -0.010934373363852501,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 1.0,
+            "value": 0.5,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "burningDeath": {
+      "source": {
+        "bundle": "entities_assets_all.bundle",
+        "file": "CAB-1d45f7d7f317c5b6dda7a85fa486b91d",
+        "pathID": "-7511253676925647761"
+      },
+      "assetName": "Object Burning Die Status",
+      "color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "priority": 1,
+      "duration": 2.0,
+      "minAlpha": 0.800000011920929,
+      "minDissolve": 0.30000001192092896,
+      "maxDissolve": 1.0,
+      "curve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 2.0,
+            "outSlope": 2.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 0.38633236289024353,
+            "value": 0.5550814270973206,
+            "inSlope": 1.2725160121917725,
+            "outSlope": 1.2725160121917725,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    }
+  },
+  "fire": {
+    "columns": 2,
+    "rows": 2,
+    "uvMode": 0,
+    "timeMode": 0,
+    "frameOverTime": {
+      "minMaxState": 3,
+      "scalar": 0.9998999834060669,
+      "minScalar": 0.0,
+      "maxCurve": {
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "minCurve": {
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "cycles": 1.0,
+    "lifetime": [
+      0.30000001192092896,
+      0.4000000059604645
+    ],
+    "speed": [
+      0.10000000149011612,
+      0.30000001192092896
+    ],
+    "startColor": [
+      1.0,
+      0.8477000594139099,
+      0.5911949276924133,
+      0.7137255072593689
+    ],
+    "tintColor": [
+      0.5882352590560913,
+      0.5882352590560913,
+      0.5882352590560913,
+      1.0
+    ],
+    "sourceRate": 100.0
+  },
+  "adaptations": [
+    "Unity billboard/shape/emission simulation is not ported wholesale. H5 uses a bounded deterministic cohort emitter at existing flame anchors.",
+    "Fire source chooses frameOverTime from two constants; runtime does not invent a sequential 4-frame loop.",
+    "Mask and direction use local actor UV; the main sprite uses current H5 atlas UV.",
+    "The no-URP-lighting fragment variant is used; existing scene lighting remains in Canvas2D.",
+    "Shader mathematics operate on RGBA8 normalized samples here; this is not an HDR/linear-color D3D parity claim."
+  ]
+}

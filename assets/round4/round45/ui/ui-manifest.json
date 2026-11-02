@@ -1,0 +1,251 @@
+{
+  "version": "4.5",
+  "material": "warm charcoal / engraved bone / exposed ember",
+  "baseUrl": "./assets/round4/round45/ui/",
+  "icons": {
+    "spark": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "headthrow": {
+      "x": 32,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "rebirth": {
+      "x": 64,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "lash": {
+      "x": 96,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "nova": {
+      "x": 128,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "oath": {
+      "x": 160,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "pain": {
+      "x": 192,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "hatred": {
+      "x": 224,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "adaptation": {
+      "x": 0,
+      "y": 32,
+      "w": 32,
+      "h": 32
+    },
+    "resolve": {
+      "x": 32,
+      "y": 32,
+      "w": 32,
+      "h": 32
+    },
+    "rage": {
+      "x": 64,
+      "y": 32,
+      "w": 32,
+      "h": 32
+    },
+    "memory": {
+      "x": 96,
+      "y": 32,
+      "w": 32,
+      "h": 32
+    },
+    "keyboard": {
+      "x": 128,
+      "y": 32,
+      "w": 32,
+      "h": 32
+    },
+    "sound": {
+      "x": 160,
+      "y": 32,
+      "w": 32,
+      "h": 32
+    },
+    "pause": {
+      "x": 192,
+      "y": 32,
+      "w": 32,
+      "h": 32
+    },
+    "save": {
+      "x": 224,
+      "y": 32,
+      "w": 32,
+      "h": 32
+    },
+    "close": {
+      "x": 0,
+      "y": 64,
+      "w": 32,
+      "h": 32
+    },
+    "back": {
+      "x": 32,
+      "y": 64,
+      "w": 32,
+      "h": 32
+    },
+    "upgrade": {
+      "x": 64,
+      "y": 64,
+      "w": 32,
+      "h": 32
+    },
+    "equip": {
+      "x": 96,
+      "y": 64,
+      "w": 32,
+      "h": 32
+    },
+    "locked": {
+      "x": 128,
+      "y": 64,
+      "w": 32,
+      "h": 32
+    },
+    "check": {
+      "x": 160,
+      "y": 64,
+      "w": 32,
+      "h": 32
+    },
+    "flame": {
+      "x": 192,
+      "y": 64,
+      "w": 32,
+      "h": 32
+    },
+    "warning": {
+      "x": 224,
+      "y": 64,
+      "w": 32,
+      "h": 32
+    },
+    "word": {
+      "x": 0,
+      "y": 96,
+      "w": 32,
+      "h": 32
+    },
+    "delete": {
+      "x": 32,
+      "y": 96,
+      "w": 32,
+      "h": 32
+    },
+    "settings": {
+      "x": 64,
+      "y": 96,
+      "w": 32,
+      "h": 32
+    },
+    "export": {
+      "x": 96,
+      "y": 96,
+      "w": 32,
+      "h": 32
+    },
+    "import": {
+      "x": 128,
+      "y": 96,
+      "w": 32,
+      "h": 32
+    },
+    "continue": {
+      "x": 160,
+      "y": 96,
+      "w": 32,
+      "h": 32
+    },
+    "restart": {
+      "x": 192,
+      "y": 96,
+      "w": 32,
+      "h": 32
+    },
+    "volume": {
+      "x": 224,
+      "y": 96,
+      "w": 32,
+      "h": 32
+    },
+    "motion": {
+      "x": 0,
+      "y": 128,
+      "w": 32,
+      "h": 32
+    },
+    "arrow": {
+      "x": 32,
+      "y": 128,
+      "w": 32,
+      "h": 32
+    },
+    "favorite": {
+      "x": 64,
+      "y": 128,
+      "w": 32,
+      "h": 32
+    },
+    "book": {
+      "x": 96,
+      "y": 128,
+      "w": 32,
+      "h": 32
+    }
+  },
+  "images": {
+    "button-active": "./assets/round4/round45/ui/button-active.png",
+    "button": "./assets/round4/round45/ui/button.png",
+    "charcoal-tile": "./assets/round4/round45/ui/charcoal-tile.png",
+    "forge-bed": "./assets/round4/round45/ui/forge-bed.png",
+    "frame": "./assets/round4/round45/ui/frame.png",
+    "icons": "./assets/round4/round45/ui/icons.png",
+    "key-0-pressed": "./assets/round4/round45/ui/key-0-pressed.png",
+    "key-0": "./assets/round4/round45/ui/key-0.png",
+    "key-1-pressed": "./assets/round4/round45/ui/key-1-pressed.png",
+    "key-1": "./assets/round4/round45/ui/key-1.png",
+    "key-2-pressed": "./assets/round4/round45/ui/key-2-pressed.png",
+    "key-2": "./assets/round4/round45/ui/key-2.png",
+    "key-3-pressed": "./assets/round4/round45/ui/key-3-pressed.png",
+    "key-3": "./assets/round4/round45/ui/key-3.png",
+    "notice": "./assets/round4/round45/ui/notice.png",
+    "skill-socket": "./assets/round4/round45/ui/skill-socket.png",
+    "title-ember": "./assets/round4/round45/ui/title-ember.png"
+  },
+  "timingMs": {
+    "press": 70,
+    "select": 140,
+    "modalEnter": 220,
+    "modalLeave": 150,
+    "toast": 180
+  },
+  "motionReduced": "state colour/edge retained; travel and pulses disabled",
+  "source": "Original deterministic runtime surfaces and glyphs; no generated image text shipped."
+}
